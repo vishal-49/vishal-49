@@ -62,9 +62,7 @@ Learning:
 ## 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/vishal-49/vishal-49/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/vishal-49/vishal-49/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ## ⭐ Featured Project
