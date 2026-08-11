@@ -69,7 +69,7 @@ public:
 
 </div>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=vishal-49&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
