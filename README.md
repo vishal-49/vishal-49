@@ -19,7 +19,7 @@ Building scalable software, intelligent AI systems, and impactful open-source pr
 </p>
 
 
-## 👨‍💻 About Me
+## About Me
 
 ```cpp
 class VishalSingh {
