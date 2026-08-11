@@ -93,7 +93,7 @@ public:
 
 <td width="50%">
 
-### 🧠 6G Channel Estimation
+### 6G Channel Estimation
 
 Deep Learning framework for accurate CSI reconstruction in next-generation wireless communication systems.
 
@@ -118,7 +118,7 @@ Deep Learning framework for accurate CSI reconstruction in next-generation wirel
 
 <td width="50%">
 
-### 📊 Olist Data Analysis
+### Olist Data Analysis
 
 End-to-end data analytics project focused on business insights using SQL, Python and Power BI.
 
@@ -145,7 +145,7 @@ End-to-end data analytics project focused on business insights using SQL, Python
 </table>
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 
