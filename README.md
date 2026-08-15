@@ -149,7 +149,7 @@ End-to-end data analytics project focused on business insights using SQL, Python
 
 <p align="center">
 
-<a href="https://linkedin.com/in/linkedin.com/in/vishal-singh-74009b38a">
+<a href="https://www.linkedin.com/in/vishal-singh-74009b38a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -167,7 +167,7 @@ End-to-end data analytics project focused on business insights using SQL, Python
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
 
